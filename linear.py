@@ -2,7 +2,6 @@
 """
 Created on Mon Oct 25 17:20:49 2021
 
-@author: URAY
 """
 import pandas as pd
 
